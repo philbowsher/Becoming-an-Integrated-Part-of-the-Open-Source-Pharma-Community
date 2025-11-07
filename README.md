@@ -10,4 +10,4 @@ Phil Bowsher, Posit/RStudio PBC; Boston, USA
 
 Slides:
 
-https://pub.current.posit.team/Becoming_Part_Open_Source_Pharma_Community/#/title-slide
+https://pub.current.posit.team/public/Becoming_Part_Open_Source_Pharma_Community/#/title-slide
